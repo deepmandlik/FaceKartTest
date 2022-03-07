@@ -1,16 +1,14 @@
 import React from "react";
-import "./App.css";
-
-import WebCam from './components/webcam/webcam';
+import FaceLandmarkDetection from "./components/features/faceLandmarkDetection";
 
 function App() {
-
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <WebCam />
-      </header>
-    </div>
+    <center>
+      <div className="App">
+        <FaceLandmarkDetection />
+      </div>
+    </center>
   );
 }
 
