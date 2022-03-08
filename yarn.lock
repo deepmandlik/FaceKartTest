@@ -1391,6 +1391,16 @@
   "resolved" "https://registry.npmjs.org/@mediapipe/face_mesh/-/face_mesh-0.4.1633559619.tgz"
   "version" "0.4.1633559619"
 
+"@mediapipe/hands@^0.4.1646424915":
+  "integrity" "sha512-R1VM3DRCKTA49nVvkprInYUXx8cKisi86y6/9clvYA0vApmLqTjIHQFibJDHwSdy4Rykn2CjWywQAWw5+mGw8w=="
+  "resolved" "https://registry.npmjs.org/@mediapipe/hands/-/hands-0.4.1646424915.tgz"
+  "version" "0.4.1646424915"
+
+"@mediapipe/selfie_segmentation@^0.1.1632777926":
+  "integrity" "sha512-OSGhYaZsdOXKyY0JCueOflq3ICLNMrBekI2V8vShum8wuoH3xjfEM6NnIujwJ5SlTdZEXi7Up2koOILDgQbWyg=="
+  "resolved" "https://registry.npmjs.org/@mediapipe/selfie_segmentation/-/selfie_segmentation-0.1.1632777926.tgz"
+  "version" "0.1.1632777926"
+
 "@nodelib/fs.scandir@2.1.5":
   "integrity" "sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g=="
   "resolved" "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"

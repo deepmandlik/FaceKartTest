@@ -69,7 +69,8 @@ export default function FaceLandmarkDetection() {
     });
 
     faceMesh.setOptions({
-      maxNumFaces: 1,
+      maxNumFaces: 4,
+      refineLandmarks: true,
       minDetectionConfidence: 0.5,
       minTrackingConfidence: 0.5,
     });
